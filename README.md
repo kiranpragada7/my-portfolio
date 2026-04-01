@@ -7,7 +7,7 @@ This project showcases my skills, projects, and background as a Computer Science
 
 ## 🚀 Live Demo
 
-🔗 https://kiranpragada7.github.io/your-my-portfolio/
+🔗 https://kiranpragada7.github.io/my-portfolio/
 
 ---
 
